@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adrian Berget</h1>
 <h3 align="center">A Norwegian Software Engineering student</h3>
 
-- 🔭 I’m currently working on **school, personal website**
+- 🔭 I’m currently working on **School, personal website, etc**
 
-- 🌱 I’m currently learning **React.js and**
+- 🌱 I’m currently learning **React, Javascript, Tailwind, Firebase**
 
 - 👨‍💻 All of my school projects are available at [https://github.com/ab596213](https://github.com/ab596213)
+
+- 🤝 Hit me up for collaboration!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
