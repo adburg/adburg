@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my school projects are available at [https://github.com/ab596213](https://github.com/ab596213)
 
+- 🧢 Just trying to get the hang of some Git handling, so my code here may be lacking, or even old, this user is kind of a test :O
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adrian-berget" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrian-berget" height="30" width="40" /></a>
