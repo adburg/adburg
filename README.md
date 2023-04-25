@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, JavaScript in general, and Firebase**
 
-- 👨‍💻 All of my school projects are available at [https://github.com/ab596213](https://github.com/ab596213)
+- 👨‍💻 More of my school work is available at [https://github.com/ab596213](https://github.com/ab596213)
 
 - 🧢 Just trying to get the hang of some Git handling, so my code here may be lacking, or even old, this user is kind of a test :O
 
