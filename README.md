@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adrian Berget</h1>
 <h3 align="center">A Norwegian Software Engineering student</h3>
 
-- 🔭 I’m currently working on **school, a personal website, etc**
+- 🔭 I’m currently working on **bachelor thesis, startup project, etc**
 
-- 🌱 I’m currently learning **React, JavaScript in general, and Firebase**
+- 🌱 I’m currently learning **.NET, JWT, and Azure**
 
-- 👨‍💻 More of my school work is available at [https://github.com/ab596213](https://github.com/ab596213)
+- 👨‍💻 More of my school work is available at [https://github.com/ab596213](https://github.com/ab596213) (not worth checking out)
 
-- 🧢 Just trying to get the hang of some Git handling, so my code here may be lacking, or even old, this user is kind of a test :O
+- 🧢 Just trying to get my Git routines dialed in atm
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
