@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adrian Berget</h1>
 <h3 align="center">A Norwegian Software Engineering student</h3>
 
-- 🔭 I’m currently working on **bachelor thesis, startup project, etc**
+- 🔭 I’m currently working on **startup project, etc**
 
 - 🌱 I’m currently learning **.NET, JWT, and Azure**
-
-- 👨‍💻 More of my school work is available at [https://github.com/ab596213](https://github.com/ab596213) (not worth checking out)
 
 - 🧢 Just trying to get my Git routines dialed in atm
 
